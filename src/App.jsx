@@ -41,6 +41,7 @@ export default function App() {
                 <div className="loading-card">
                     <div className="loading-spinner">⏳</div>
                     <p className="loading-text">Đang tải dữ liệu...</p>
+                    {/* . */}
                 </div>
             </div>
         );
